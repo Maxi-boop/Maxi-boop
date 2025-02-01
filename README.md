@@ -6,4 +6,4 @@ Actively developing:
 - & Other personal projects! ⭐💫
 
 ### Other things about me:
-- I'm currently learning back-end engineering with Mongo DB 💫🌿 + Figma 🎨!
+- I'm currently learning back-end engineering with Mongo DB 💫🌿!
